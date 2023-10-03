@@ -1,0 +1,5 @@
+git clone (le chemin)
+git add .
+git commit
+git push
+
